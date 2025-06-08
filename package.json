@@ -1,10 +1,10 @@
 {
-  "name": "yokai-encryptor",
+  "name": "space-encryptor",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "preview": "vite preview"
   },
   "dependencies": {
     "animejs": "^3.2.1"
