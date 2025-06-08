@@ -1,0 +1,16 @@
+{
+  "name": "yokai-encryptor",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "animejs": "^3.2.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
